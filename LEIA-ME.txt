@@ -1,0 +1,12 @@
+IMPACTO MANAGER v1.0 — ARQUIVO ÚNICO
+
+Para atualizar o GitHub, envie somente index.html.
+Para liberar o banco, copie firestore.rules no Firebase > Firestore Database > Regras > Publicar.
+
+Teste pelo endereço:
+https://impactoobu.github.io/impacto-obu-system/?v=100
+
+Primeiro acesso:
+1. Criar primeiro administrador.
+2. Use admin@impactoobu.com.
+3. Crie uma senha com 6 ou mais caracteres.
